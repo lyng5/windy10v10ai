@@ -1,5 +1,5 @@
 {
-    "name": "windy10v10ai",
+    "name": "lyng",
     "private": true,
     "scripts": {
         "postinstall": "node src/scripts/install.js",
